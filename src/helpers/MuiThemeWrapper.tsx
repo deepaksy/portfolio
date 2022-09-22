@@ -1,7 +1,7 @@
 import { ThemeProvider,createTheme } from "@mui/material";
 import CssBaseline from "@mui/material/CssBaseline";
-import { useThemeDispatch,useThemeSelector } from "../redux/ThemeHook"
-import { toggleTheme,settheme } from "../redux/ThemeSlice"
+import { useThemeSelector } from "../redux/ThemeHook"
+
 
 
 
